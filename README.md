@@ -51,5 +51,5 @@ python test_pyspark.py
 
 Если вы увидите таблицу с продуктами и их категориями, значит всё работает.
 
-(image.png)
+![image](image.png)
 
